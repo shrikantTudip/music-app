@@ -1,0 +1,26 @@
+{
+  "name": "music-app",
+  "description": "A music application where you can search for music of various artist",
+  "main": "index.js",
+  "authors": [
+    "Shrikant Patwari shrikantpatwari@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.3",
+    "angular-ui-router": "^0.4.2",
+    "angular-sanitize": "^1.6.4",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-loader": "~1.6.3",
+    "angular-mocks": "~1.6.3",
+    "jquery": "1.11.2"
+  }
+}

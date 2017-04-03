@@ -1,0 +1,9 @@
+// alerts and notices
+%alert {
+  background: #fcf8e3;
+  color: #8a6d3b;
+}
+
+.alert-help {
+  @extend %alert;
+}
